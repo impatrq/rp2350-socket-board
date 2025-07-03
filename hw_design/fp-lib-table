@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RPMINIMA")(type "KiCad")(uri "${KIPRJMOD}/RP2350/RP2350_60QFN_minimal.pretty")(options "")(descr "")(disabled))
+  (lib (name "images")(type "KiCad")(uri "${KIPRJMOD}/images")(options "")(descr ""))
+)
